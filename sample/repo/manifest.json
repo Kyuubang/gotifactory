@@ -1,0 +1,12 @@
+{
+   "gotifactory": [
+     {
+       "package": "gotifactory",
+       "version": "1.0",
+       "commit": "4e93b7605",
+       "url": "http://localhost/scripts/repo/gotifactory/gotifactory",
+       "sha256": "dfd5cc16e9e5002089239e17f7a488e631be97dd3198e080e6cb39393b4fda95",
+       "channel": "latest"
+     }
+   ]
+ }
