@@ -1,5 +1,8 @@
 gotifactory
 =============
+
+![GitHub go.mod Go version](https://img.shields.io/github/go-mod/go-version/Kyuubang/gotifactory)
+
 painless artifactory management for GO binary and is highly
 customizable. with this, you will make it even easier to implement binary 
 self-update like using a normal API
